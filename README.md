@@ -15,6 +15,9 @@
   </a>
 </div>
 
+### 📊 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-sak&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🔨 Tech stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
@@ -41,6 +44,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" alt="Atom" width="40" height="40"/>&nbsp;
 </div>
-
-### 📊 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-sak&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
