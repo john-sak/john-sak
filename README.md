@@ -16,7 +16,7 @@
 </div>
 
 ### 📊 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-sak&hide=jupyternotebook&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-sak&hide=jupyter%20notebook&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔨 Tech stack
 <div>
